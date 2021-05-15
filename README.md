@@ -12,7 +12,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Lombok<br>
 ✅ Proje katmanlı bir mimari olacağı için katmanlarını isimlendirme standartlarına uygun bir biçimde oluşturdum. <br>
 ✅ Spring ve Lombok paketleri ile gelen eklentiler projemde etkin olarak kullandım. Detaylar için projemi inceyelebilirsiniz. <br>
-✅ "job_title" adlı tablomuzun içerisindeki verileri yazdırdım.<br>
+✅ "job_title" adlı tablomuzun içerisindeki verileri yazdırdım. <br>
+
+![Output](https://user-images.githubusercontent.com/77546366/118363707-59252980-b59e-11eb-9097-1e0c6c506df8.PNG)
+
 
 
 

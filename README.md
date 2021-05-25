@@ -16,6 +16,22 @@
 
 ![Output](https://user-images.githubusercontent.com/77546366/118363707-59252980-b59e-11eb-9097-1e0c6c506df8.PNG)
 
+## Commit 2 
+
+✅ Projeme swagger desteği ekledim. <br>
+✅ User(Kullanıcı), Employee(İşçi), Employer(İş Veren), Candidate(İş Arayanlar) nesnelerini dahil ettim ve bunlar için gerekli olan interface ve classları yazdım.<br>
+✅ Candidate (İş Arayanlar) kullanıcıların sisteme kayıt olmasını sağlayacak kodları [AuthManager](https://github.com/mustafasameturan/HRMS-Project/blob/main/HRMS/src/main/java/kodlamaio/hrms/business/concretes/AuthManager.java) sınıfı içerisine yazdım.<br>
+✅ Employer(İş Veren) kullanıcıların sisteme kayıt olmasını sağlayacak kodları [AuthManager](https://github.com/mustafasameturan/HRMS-Project/blob/main/HRMS/src/main/java/kodlamaio/hrms/business/concretes/AuthManager.java) sınıfı içerisine yazdım.<br>
+✅ Candidate (İş Arayanlar) ve Employer(İş Veren) kullanıcılar sisteme kayıt olurken bazı doğrulama ve kurallar mevcuttur.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Tüm alanlar zorunludur.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Candidate (İş Arayanlar) kullanıcılar içim MERNIS(fake) doğrulaması eklenmiştir.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Daha önce kayıtlı bir e-posta veya TC Kimlik numarası var ise kullanıcı sisteme kabul edilmez.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Kayıtların gerçekleşmesi için bir e-posta doğrulaması(fake) gereklidir.<br><br>
+✅ Sisteme JobTitle(İş Pozisyonu) eklenebilir.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Tüm alanlar zorunludur.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Pozisyonlar tekrar edemez. Kullanıcı uyarılır.<br><br>
+✅Tüm nesneleri listeleme imkanı sağlayacak kodlar yazılmıştır.<br>
+
 
 
 

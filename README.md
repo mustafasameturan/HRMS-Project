@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Spring Web<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Spring Data JPA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹PostgreSQL Driver<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Lombok<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Lombok<br><br>
 ✅ Proje katmanlı bir mimari olacağı için katmanlarını isimlendirme standartlarına uygun bir biçimde oluşturdum. <br>
 ✅ Spring ve Lombok paketleri ile gelen eklentiler projemde etkin olarak kullandım. Detaylar için projemi inceyelebilirsiniz. <br>
 ✅ "job_title" adlı tablomuzun içerisindeki verileri yazdırdım. <br>
@@ -32,8 +32,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Pozisyonlar tekrar edemez. Kullanıcı uyarılır.<br><br>
 ✅Tüm nesneleri listeleme imkanı sağlayacak kodlar yazılmıştır.<br>
 
-
-
+![Output](https://user-images.githubusercontent.com/77546366/119478700-afd9f280-bd58-11eb-9e18-e37f95e248ba.PNG)
 
 
 

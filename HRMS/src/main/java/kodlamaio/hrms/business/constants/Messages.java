@@ -27,5 +27,17 @@ public class Messages {
 	
 	public static String MERNIS_VERIFICATION_ERROR = "Identity number could not be verified";
 	
+	public static String CITY_LISTED = "Cities listed!";
+	public static String CITY_ADDED = "Cities added!";
+	
+	public static String JOB_POSTING_LISTED = "Job postings listed!";
+	public static String JOB_POSTING_ADDED = "Job postings added!";
+	public static String JOB_POSTING_UPDATED = "Job postings updated!";
+	public static String JOB_POSTING_NULL_ERROR = "You missed a information. Please check all fields!";
+	public static String JOB_POSTING_CHANGE_ERROR = "We cannot find a job posting like you search!";
+	public static String JOB_POSTING_CHANGE_ERROR_TWO = "Job posting which you searched is already closed!";
+	public static String JOB_POSTING_CHANGE = "Job posting has been successfully closed!";
+	
+	
 	
 }

@@ -35,5 +35,11 @@
 ![Output](https://user-images.githubusercontent.com/77546366/119478700-afd9f280-bd58-11eb-9e18-e37f95e248ba.PNG)
 
 
+## Commit 3
+✅ Projemde iş verenlerin sisteme iş ilanı(Job Posting) ekleyebileceği bir ortam hazırlandı. <br>
+✅ Sistemdeki tüm aktif iş ilanları listenebilmektedir.
+✅ Sistemdeki tüm aktif iş ilanları tarihe göre listenebilmektedir.
+✅ Sistemde bir firmaya ait iş ilanları listenebilmektedir.
+✅ Sistemdeki bir iş ilanı aktif konumdan kapalı konuma getirilebilmektedir.
 
 

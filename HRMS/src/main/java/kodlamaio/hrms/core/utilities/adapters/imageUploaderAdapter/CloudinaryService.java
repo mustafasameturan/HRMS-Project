@@ -19,6 +19,7 @@ import kodlamaio.hrms.core.utilities.results.SuccessDataResult;
 @Service
 public class CloudinaryService {
 
+	
 	Cloudinary cloudinary;
 	
 	private Map<String, String> valuesMap = new HashMap<>();

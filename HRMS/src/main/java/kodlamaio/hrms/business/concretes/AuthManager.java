@@ -10,7 +10,7 @@ import kodlamaio.hrms.business.abstracts.CandidateService;
 import kodlamaio.hrms.business.abstracts.EmployerService;
 import kodlamaio.hrms.business.abstracts.UserService;
 import kodlamaio.hrms.business.constants.Messages;
-import kodlamaio.hrms.core.utilities.adapters.UserCheckService;
+import kodlamaio.hrms.core.utilities.adapters.mernisAdapter.UserCheckService;
 import kodlamaio.hrms.core.utilities.results.ErrorResult;
 import kodlamaio.hrms.core.utilities.results.Result;
 import kodlamaio.hrms.core.utilities.results.SuccessResult;

@@ -1,5 +1,6 @@
 package kodlamaio.hrms.business.concretes;
 
+
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -39,7 +40,5 @@ public class CandidateManager implements CandidateService {
 		this.candidateDao.save(candidate);
 		return new SuccessResult(Messages.CANDIDATE_ADDED);
 	}
-
-	
 
 }

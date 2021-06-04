@@ -2,7 +2,7 @@
 <div align="center"><h2>İnsan Kaynakları Yönetim Projesi</h2> </div>
 
 <div align="center"><h3>🚨 Projem güncellendikçe README.md dosyamda güncellemeleri açıklıyorum. Daha detaylı bilgi için projeyi inceleyebilirsiniz. 🚨</h3> </div>
-<div align="center"><h3>🚨 Sorularınız için profilimde bulunan Discord linkinden bana ulaşabilirsiniz. 🚨</h3> </div>
+<div align="center"><h3>🚨 Sorularınız için profilimde bulunan Discord ID'sinden bana ulaşabilirsiniz. 🚨</h3> </div>
 
 ## Initial Commit 
 

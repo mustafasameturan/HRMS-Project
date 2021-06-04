@@ -22,6 +22,7 @@ public class CloudinaryService {
 	
 	Cloudinary cloudinary;
 	
+	
 	private Map<String, String> valuesMap = new HashMap<>();
 	
 	public CloudinaryService() {

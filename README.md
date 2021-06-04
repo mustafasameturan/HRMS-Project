@@ -37,9 +37,20 @@
 
 ## Commit 3
 ✅ Projemde iş verenlerin sisteme iş ilanı(Job Posting) ekleyebileceği bir ortam hazırlandı. <br>
-✅ Sistemdeki tüm aktif iş ilanları listenebilmektedir.
-✅ Sistemdeki tüm aktif iş ilanları tarihe göre listenebilmektedir.
-✅ Sistemde bir firmaya ait iş ilanları listenebilmektedir.
+✅ Sistemdeki tüm aktif iş ilanları listenebilmektedir.<br>
+✅ Sistemdeki tüm aktif iş ilanları tarihe göre listenebilmektedir.<br>
+✅ Sistemde bir firmaya ait iş ilanları listenebilmektedir.<br>
 ✅ Sistemdeki bir iş ilanı aktif konumdan kapalı konuma getirilebilmektedir.
 
+![Output](https://user-images.githubusercontent.com/77546366/120867121-f5d55880-c599-11eb-9153-55f0153cf8f0.PNG)
 
+## Commit 4
+✅ Sisteme iş arayanların(candidates) bir veya birden fazla CV girme olasılığını sağladım.<br>
+✅ İş arayan sisteme cv girerken aşşağıda belirteceğim bilgiler doldurabilmektedirler.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹İş arayanlar okuduğu okulları sisteme girebilir.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹İş arayanlar iş tecrübelerini sisteme girebilir.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹İş arayanlar bildiği yabancı dilleri ve seviyesini sisteme girebilir.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹İş arayanlar fotoğraflarını sisteme yükleyebilmektedir (Fotoğraflar Cloudinary bulut sisteminde tutulmaktadır.).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹İş arayanlar Github ve LinkedIn adreslerini sisteme girebilir.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹İş arayanlar sisteme ön yazı girebilir.<br><br>
+✅ İş arayanların iş tecrübeleri ve okul bilgileri tarihe göre sıralanabilmektedir. <br>

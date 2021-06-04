@@ -54,3 +54,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹İş arayanlar Github ve LinkedIn adreslerini sisteme girebilir.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹İş arayanlar sisteme ön yazı girebilir.<br><br>
 ✅ İş arayanların iş tecrübeleri ve okul bilgileri tarihe göre sıralanabilmektedir. <br>
+✅ Sisteme Spring Boot Validation entegre edildi.
+
+![Output](https://user-images.githubusercontent.com/77546366/120867666-118d2e80-c59b-11eb-87f4-c2a227bd891a.PNG)
